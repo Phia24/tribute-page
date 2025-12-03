@@ -1,24 +1,15 @@
-#title {
-    font-size: 400%;
-    width: 60vmax;
+body {
+    background-color: maroon;
 }
 
-.center {
-    margin: auto;
-    padding: auto;
+figcaption, p, h1, a {
+    color: white;
     text-align: center;
 }
 
-#image {
-    max-width: 70%;
+#image{
+    max-width: 100%;
     height: auto;
+    margin: auto;
     display: block;
-}
-
-.img {
-    align-items: center;
-}
-
-body{
-    color: maroon;
 }
